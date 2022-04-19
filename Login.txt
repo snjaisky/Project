@@ -1,0 +1,4 @@
+Open URL
+Enter username 
+Enter password
+click submit

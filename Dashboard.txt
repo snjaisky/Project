@@ -1,0 +1,7 @@
+Dashboard options: 
+Assign Leave
+Leave list
+Timesheets
+Apply Leave
+My Leaves
+My Timesheet
